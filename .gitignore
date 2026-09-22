@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/
+dataset/
+Dataset/
+datasets/
+
+# Trained models / checkpoints
+models/
+*.keras
+*.h5
+*.hdf5
+*.ckpt
+*.weights.h5
+
+# Training artifacts not intended for Git
+logs/
+checkpoints/
+*.log
+
+# Kaggle / cache
+.kaggle/
+.cache/
+
+# Environment / secrets
+.env
+.env.*
+kaggle.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
