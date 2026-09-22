@@ -180,7 +180,7 @@ The notebook is designed for Google Colab.
 5. Training outputs are written to Google Drive under:
 
 ```text
-/content/drive/MyDrive/Disaster/Experiment_Training/
+/content/drive/MyDrive/Disaster/
 ```
 
 The notebook saves model checkpoints, histories, evaluation metrics, and plots during execution.
