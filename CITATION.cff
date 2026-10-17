@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated research work."
+title: "Disaster Image Identification"
+type: software
+version: "1.0.0"
+date-released: "2026-09-22"
+license: "MIT"
+url: "https://ejournal.unesa.ac.id/index.php/rapids/article/view/76884"
+
+preferred-citation:
+  type: article
+  title: "Identifikasi Kejadian Bencana Berdasarkan Gambar Unggahan di Media Sosial dalam Upaya Mitigasi Bencana Menggunakan Inception ResNet V2"
+  journal: "Jurnal Riset Aplikasi Ilmu Data dan Sistem"
+  volume: "1"
+  issue: "1"
+  start: "1"
+  end: "15"
+  year: "2026"
+  url: "https://ejournal.unesa.ac.id/index.php/rapids/article/view/76884"
